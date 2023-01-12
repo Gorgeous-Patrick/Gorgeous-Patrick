@@ -4,7 +4,7 @@
 - 📫 How to reach me: Email to ilovegithub@patrickli.mozmail.com
 - ⚡ Fun fact: I call my girlfriend C++.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gorgeous-Patrick&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+![Patick's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gorgeous-Patrick&show_icons=true&theme=onedark)
 
 
 <!--
