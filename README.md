@@ -3,6 +3,7 @@
 - 🌱 I’m currently a student @ University of Michigan
 - 📫 How to reach me: Email to ilovegithub@patrickli.mozmail.com
 - ⚡ Fun fact: I call my girlfriend C++.
+- Learn more about me at www.patrickli.one
 
 ![Patick's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gorgeous-Patrick&show_icons=true&theme=onedark)
 
