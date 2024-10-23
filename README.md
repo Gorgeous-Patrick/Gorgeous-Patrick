@@ -5,8 +5,6 @@
 - ⚡ Fun fact: I call my girlfriend Duo.
 - Learn more about me at www.patrickli.one
 
-![Patick's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gorgeous-Patrick&show_icons=true&theme=onedark)
-
 
 <!--
 **Gorgeous-Patrick/Gorgeous-Patrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
